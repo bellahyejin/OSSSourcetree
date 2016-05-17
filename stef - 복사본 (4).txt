@@ -1,4 +1,8 @@
 Soft
 
 
+<<<<<<< HEAD
 1231456789a
+=======
+asdasdasd
+>>>>>>> master
