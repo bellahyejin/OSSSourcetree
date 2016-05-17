@@ -1,3 +1,7 @@
+
 Soft
 
 cdehdh
+
+충돌처리
+
