@@ -1,0 +1,9 @@
+Soft
+
+충돌테스트
+
+<<<<<<< .merge_file_a04080
+adsfasdfadsf
+=======
+충돌체스트 ㅋㅋㅋ
+>>>>>>> .merge_file_a02688
